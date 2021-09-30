@@ -26,8 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://github.com/sakshichopra-30/order-summary-component/blob/main/project1.htm)
-- Live Site URL: 
+- Solution URL: [Github](https://github.com/sakshichopra-30/order-summary-component/blob/main/project1.htm 
 
 ## My process
 
