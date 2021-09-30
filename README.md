@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/sakshichopra-30/order-summary-component/blob/main/project1.htm)
-- Live Site URL: (file:///C:/Users/DELL/Web%20development/Website/project1.htm)
+- Solution URL: [Github](https://github.com/sakshichopra-30/order-summary-component/blob/main/project1.htm)
+- Live Site URL: 
 
 ## My process
 
